@@ -14,7 +14,6 @@ Real name = Lucas *******
 He/His/Him
 
 Discord: lLukii #2558
-Wechat: ErenYeagrrr
 Region: United States / China
 
 Age: Under legal driving age
