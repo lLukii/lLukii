@@ -1,12 +1,4 @@
-Hi. I. Am. A. Noob. At. Programming.
-
-I. Like. Programming.
-
-So. I. Do. It. 
-
-Maybe. U. Can. Help. Me. Become. Better. 
-
-
+Still waiting for the day that I can actually code smth useful. I believe that is reflected by my rather cursed repos (Don't look at them to benefit both parties). 
 
 Actual abt me:
 IGN = lLukii
@@ -16,19 +8,15 @@ He/His/Him
 Discord: lLukii #2558
 Region: United States / China
 
-Age: Under legal driving age
+Age: cos(42)+i*sin(42)
 
-Favorite game: Minecraft
+Favorite game: Minecraft (Skyblock Stats: https://sky.shiiyu.moe/stats/lLukii/Banana)
 Favorite food: Sushi??? Western food prob hamburgurs or pizza idk
 Favorite subject: Math/CS
-Least Favorite subject: English/Languages (My reading is illiterate lvl i fking swear)
+Least Favorite subject: English/Languages (I am fully convinced that I am illiterate when it comes to reading English)
 
 
 Interests: Programming, Piano, Swimming, im boring lets be real. 
-
-I am special because I am special because I am special and yadadadadadah. 
-
-
 
 bye :)
 
