@@ -11,8 +11,8 @@ Region: United States / China
 Age: cos(42)+i*sin(42)
 
 Favorite game: Minecraft (Skyblock Stats: https://sky.shiiyu.moe/stats/lLukii/Banana)
-Favorite food: Sushi (Same bef I got into Anime/Manga) Western food prob hamburgurs or pizza idk
-Favorite subject: Math/CS (Fuck AMC 8/10 tho never doing those again in my life)
+Favorite food: idk
+Favorite subject: Math/CS
 Least Favorite subject: English/Languages (I am fully convinced that I am illiterate when it comes to reading English)
 
 
