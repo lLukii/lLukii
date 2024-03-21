@@ -1,8 +1,8 @@
 Still waiting for the day I can actually code smth useful
 
 Actual abt me:
-IGN = lLukii
-Real name = Lucas *******
+IGN = lLukii\n
+Real name = Lucas ******* \n
 He/His/Him
 Age: cos(pi) + i*sin(pi)
 USACO Silver with a tiny brain that most likely cannot properly code. 
