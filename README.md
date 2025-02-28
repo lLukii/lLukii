@@ -1,1 +1,1 @@
-My future is at F̶A̶A̶N̶G̶ McDonalds
+I am a programmer who has touched grass within the past week. You cannot comprehend my power. 
