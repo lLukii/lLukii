@@ -1,3 +1,2 @@
-coding is fun
-
-![Alt text](aexmsv.jpg) 
+TBS '2027
+FTC Team 10539 Software Lead
